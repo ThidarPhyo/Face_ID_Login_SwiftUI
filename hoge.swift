@@ -1,1 +1,2 @@
 print("Hoge")
+print("fuga")
